@@ -1,0 +1,9 @@
+asgiref==3.7.2
+Django==5.0.1
+pyaes==1.6.1
+pyasn1==0.5.1
+python-dotenv==1.0.1
+rsa==4.9
+sqlparse==0.4.4
+Telethon==1.34.0
+tzdata==2023.4
