@@ -1,0 +1,15 @@
+venv/*
+*.env
+.env
+Environ/*
+*.sqlite3
+.sqlite3
+__pycache__/*
+__pycache/
+migrations/
+migrations/*
+.session
+/Rage_against_th3_machine.session
+/model_db/__pycache__
+/Input_Configuration/__pycache__
+/Django_ORM/__pycache__
