@@ -9,6 +9,12 @@ After you clone this repos you need to install the python dependences you can do
 
 > pip install -r requeriments.txt
 
+now you need to config the database, this project use django orm to model the tables in case you want to make more with messages or something it would be more easy to design.
+for init the the tables use:
+
+> python manage.py makemigrations
+> python manage.py migrate
+
 ### Configurations
 
 You need a telegram develepoer account, now you need to upgrade your account. you can doit using this [link](https://my.telegram.org/auth).
